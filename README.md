@@ -2,9 +2,13 @@
 The solution set to LeetCode Problems in Cpp. 
 <br> 
 User Name: <b> <a href='https://leetcode.com/amaan_272/'> amaan_272 </a> </b>
+<br>
+<br>
 <b> Noteable Performances </b>
 <ol>
   <li> <a href='https://leetcode.com/contest/weekly-contest-325/'> Weekly Contest 325 </a> Ranked #1132 amongst 16157 participants.  
+  <li> <a href='https://leetcode.com/contest/biweekly-contest-93/'> BiWeekly Contest 93 </a> Ranked #1633 amongst 17080 participants.  
+  <li> <a href='https://leetcode.com/contest/weekly-contest-326/'> Weekly Contest 326 </a> Ranked #4587 amongst 16183 participants.  
 </ol>
 
 <h3> Problems solved: </h3>
